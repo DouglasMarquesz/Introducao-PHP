@@ -1,0 +1,23 @@
+Terminologias
+
+Cliente Side
+	Lado do cliente
+		- Navaegador (Chorme, FIrefox, Opera)
+			- Html
+			- CSS
+			- JS          <visto em TPI1, muito usado em TPI2>
+
+Server Side
+	Lado do Servidor
+		- Php		<Aprender Em TPI2>
+		- MySql
+
+O que é o php
+	- É uma linguagem de programação de paginas dinâmico em site.
+	- O php processa os arquivos com extensão .php em um servidor, assim para "rodar" uma página php pessisamos iniciar um servidor.
+	- Como iniciar o servidor:
+		- Abra o visual studio
+		- Abra a pasta (open folder) do seu projeto
+		- Presione as teclas CTRL + " 
+		Diretorio:
+			C:\wamp\bin\php\php.5.6.38\php -S localhost:8000
